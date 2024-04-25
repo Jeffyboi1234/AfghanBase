@@ -1,0 +1,194 @@
+{
+    "meta": {
+      "format": "JSON",
+      "version": "1.1.0",
+      "projectId": "afghanistanlivestockdiseases",
+      "resourcePath": [
+        "DISEASES"
+      ],
+      "recursive": false,
+      "creationTime": 1714042510,
+      "app": "firefoo"
+    },
+    "data": {
+      "!CONTACT @autowork228@gmail.com for feedback and queries": {
+        "__collections__": {}
+      },
+      "Anthrax": {
+        "Background Info": "Anthrax is a bacterial disease affecting various animals, including livestock.",
+        "Diagnostic Method": "Clinical signs examination, examination of blood or tissue smears, PCR.",
+        "Symptoms": "High fever| Swelling, particularly in the neck, abdomen, and legs| Difficulty breathing| Sudden death",
+        "Transmission": "Animals can contract the disease by skin contact with spores or by consuming spores from contaminated feed or soil.",
+        "Treatment": "Antibiotics (e.g., penicillin) are used for treatment| Vaccination is crucial to prevent Anthrax| Disposal of carcasses and cleaning of contaminated areas are essential control measures|",
+        "__collections__": {}
+      },
+      "Avian Influenza (Bird Flu)": {
+        "Background Info": "Avian influenza is caused by influenza A viruses, with various strains affecting poultry and occasionally other birds.",
+        "Diagnostic Method": "Clinical signs examination, virus isolation, serological tests (ELISA), PCR.",
+        "Symptoms": "Sudden death, respiratory signs, decreased egg production.",
+        "Transmission": "Contact with infected birds, contaminated environments, and bird reservoirs.",
+        "Treatment": "No specific treatment; unaliving of infected flocks during outbreaks. To prevent, run biosecurity measures, surveillance, and vaccination.",
+        "__collections__": {}
+      },
+      "Blackleg (Clostridial Myositis)": {
+        "Background Info": "Caused by Clostridium chauvoei bacteria, affecting cattle.",
+        "Diagnostic Method": " Clinical signs examination, postmortem examination of affected muscles, PCR.",
+        "Symptoms": "Sudden death, lameness, swelling and crepitus over affected muscles.",
+        "Transmission": "Spores present in soil and mud, often associated with wounds and injuries",
+        "Treatment": "Antibiotics and anti-toxin therapy. To prevent, make sure to vaccinate your cattle. ",
+        "__collections__": {}
+      },
+      "Blue Tongue": {
+        "Background Info": "A viral disease affecting sheep, goats, and cattle.",
+        "Diagnostic Method": "Clinical signs examination, serological tests (AGID, ELISA).",
+        "Symptoms": "Fever, nasal discharge, swollen tongue, lameness.",
+        "Transmission": "Insects called biting midges.",
+        "Treatment": "Care, vaccination and vector control are essential preventive measures. Insecticide execution to control biting midge populations.",
+        "__collections__": {}
+      },
+      "Brucellosis": {
+        "Background Info": "Brucellosis is caused by bacteria affecting cattle, sheep, and goats.",
+        "Diagnostic Method": "Serological tests (Rose Bengal Test, ELISA), bacteriological culture, PCR, milk ring test, clinical examination.",
+        "Symptoms": "Abortion, infertility, swollen testicles (in males), retained placenta.",
+        "Transmission": "Consumption of contaminated feed or water, contact with infected tissues.",
+        "Treatment": "Antibiotics (e.g., doxycycline, streptomycin), test and slaughter programs",
+        "__collections__": {}
+      },
+      "Coccidiosis": {
+        "Background Info": "Coccidiosis is a disease affecting the intestines of young livestock.",
+        "Diagnostic Method": "Fecal examination for oocysts, clinical signs examination, postmortem examination.",
+        "Symptoms": "Diarrhea (often bloody), dehydration, weight loss, poor growth.",
+        "Transmission": "Consumption of oocysts shed in feces of infected animals.",
+        "Treatment": "Coccidiostats, supportive care. Improved hygiene, sanitation of housing and eating areas, coccidiostat usage in food.",
+        "__collections__": {}
+      },
+      "Contagious Bovine Pleuropneumonia (CBPP)": {
+        "Background Info": "CBPP is caused by Mycoplasma mycoides subspecies mycoides, affecting cattle.",
+        "Diagnostic Method": "Clinical signs examination, serological tests (cELISA), PCR, bacterial isolation.",
+        "Symptoms": "Severe respiratory distress, coughing, nasal discharge, fever.",
+        "Transmission": "Contact with infected animals or intake of respiratory secretions.",
+        "Treatment": "Vaccination, movement restrictions, and quarantine all help. Antibiotics targeting Mycoplasma, isolation and supportive care. ",
+        "__collections__": {}
+      },
+      "Contagious Caprine Pleuropneumonia (CCPP)": {
+        "Background Info": " CCPP is caused by Mycoplasma capricolum subsp. capripneumoniae, affecting goats primarily.",
+        "Diagnostic Method": "Clinical signs examination, serological tests (cELISA), PCR, bacterial isolation.",
+        "Symptoms": "Severe respiratory distress, coughing, nasal discharge, fever.",
+        "Transmission": "Contact between infected and susceptible animals.",
+        "Treatment": "Antibiotics targeting Mycoplasma, care to manage respiratory symptoms. Vaccination of goat populations, quarantine of affected animals during outbreaks.",
+        "__collections__": {}
+      },
+      "Dermatophilosis (Rain Scald)": {
+        "Background Info": "Dermatophilosis is a bacterial skin infection caused by Dermatophilus congolensis, affecting cattle, sheep, and goats.",
+        "Diagnostic Method": "Clinical signs examination, microscopic examination of skin lesions (smears), bacterial culture, PCR.",
+        "Symptoms": "Crusty scabs, hair loss, skin lesions, lameness (in severe cases).",
+        "Transmission": "Contaminated environments, wet and humid conditions.",
+        "Treatment": "antibiotics either topically or systemically, scab removal, and appropriate wound care. To prevent, keep animals' health at its best, stay away from muddy and moist areas, and practise proper cleanliness.",
+        "__collections__": {}
+      },
+      "Fasciolosis (Liver Fluke Infection)": {
+        "Background Info": "Fasciolosis is a parasitic disease caused by liver flukes (Fasciola hepatica, Fasciola gigantica) affecting sheep, goats, cattle, and other ruminants.",
+        "Diagnostic Method": "Fecal examination for fluke eggs (sedimentation, flotation), serological tests (ELISA), postmortem examination.",
+        "Symptoms": "Chronic weight loss, anemia, bottle jaw (submandibular edema), reduced productivity.",
+        "Transmission": "Consumption of contaminated water or vegetation containing fluke larvae.",
+        "Treatment": "Anthelmintics effective against liver flukes. To prevent, control of snail intermediate hosts, pasture management, and strategic deworming have been proven to be effective",
+        "__collections__": {}
+      },
+      "Foot and Mouth Disease (FMD)": {
+        "Background Info": " Foot-and-Mouth Disease (FMD) is a highly contagious viral disease affecting cloven-hoofed animals, including cattle, sheep, goats, and pigs.",
+        "Diagnostic Method": "Virus isolation, serological tests (ELISA), molecular methods (PCR), clinical signs and lesions examination.",
+        "Symptoms": "Fever Blisters and ulcers on the mouth, tongue, and feet| Excessive salivation| Lameness and reluctance to move| Decreased milk production|",
+        "Transmission": "FMD spreads through direct contact with infected animals, contaminated equipment, or contaminated feed and water sources.",
+        "Treatment": "There is no specific treatment for FMD| Vaccination is an effective preventive measure| Control measures include quarantine, strict biosecurity practices, and disinfection of premises and equipment|",
+        "__collections__": {}
+      },
+      "Infectious Bovine Rhinotracheitis (IBR)": {
+        "Background Info": "IBR is caused by Bovine Herpesvirus 1 (BoHV-1), affecting cattle and causing respiratory and reproductive symptoms.",
+        "Diagnostic Method": "Clinical signs examination, virus isolation, serological tests (ELISA), PCR.",
+        "Symptoms": " Fever, nasal discharge, coughing, conjunctivitis, abortion (in pregnant cows).",
+        "Transmission": "Direct contact with infected animals, respiratory secretions.",
+        "Treatment": "Supportive care, vaccination to prevent clinical disease and reduce viral shedding. Vaccination of cattle herds, isolation of infected animals during outbreaks would be beneficial for prevention",
+        "__collections__": {}
+      },
+      "Johne's Disease (Paratuberculosis)": {
+        "Background Info": "Johne's disease is a chronic bacterial infection caused by Mycobacterium avium subspecies paratuberculosis (MAP), affecting cattle, sheep, and goats.",
+        "Diagnostic Method": "Serological tests (ELISA), fecal culture (for Mycobacterium avium subsp. paratuberculosis), PCR, clinical examination.",
+        "Symptoms": "Chronic diarrhea, weight loss, decreased milk production.",
+        "Transmission": "Consumption of contaminated feed or water, vertical transmission (Parents to offspring).",
+        "Treatment": "No curative treatment, management through herd testing, culling of positive animals. To prevent, run testing and removal of infected animals, and improve hygiene in feeding and watering areas.",
+        "__collections__": {}
+      },
+      "Lumpy Skin Disease (LSD)": {
+        "Background Info": "Lumpy skin disease is caused by a poxvirus affecting cattle, characterized by nodules and skin lesions.",
+        "Diagnostic Method": "Clinical signs examination, PCR, virus isolation, serological tests (ELISA).",
+        "Symptoms": "Fever, nodules on the skin, swelling of lymph nodes, decreased milk production.",
+        "Transmission": "Contact with infected animals, mechanical transmission by insects (e.g., mosquitoes).",
+        "Treatment": "Supportive care, vaccination for prevention. To prevent, make sure to put in vector control to reduce insect transmission.",
+        "__collections__": {}
+      },
+      "Mange (Sarcoptic, Psoroptic, or Chorioptic)": {
+        "Background Info": "Mange is a parasitic skin disease caused by various mites (Sarcoptes, Psoroptes, Chorioptes) affecting cattle, sheep, goats, and camels.",
+        "Diagnostic Method": "Skin scraping examination (microscopic), clinical signs examination, response to acaricidal treatment.",
+        "Symptoms": "Intense itching, hair loss, crusty skin lesions.",
+        "Transmission": "Contact with infested animals or contaminated environments.",
+        "Treatment": "Acaricidal dips or sprays, topical medications. To prevent, quarantine and treatment of affected animals, sanitation of housing areas are effective against Mange.",
+        "__collections__": {}
+      },
+      "Mycoplasma Gallisepticum (MG)": {
+        "Background Info": "MG is a bacterial disease affecting poultry, particularly chickens and turkeys, causing respiratory symptoms and reduced egg production.",
+        "Diagnostic Method": "ELISA (Enzyme-Linked Immunosorbent Assay) to detect antibodies against MG.",
+        "Symptoms": "Respiratory signs (sneezing, coughing), swollen sinuses, decreased egg quality.",
+        "Transmission": "Contact with infected birds, contaminated equipment, or airborne transmission.",
+        "Treatment": "Antibiotics for secondary infections, culling of severely affected birds. Heavy duty biosecurity measures, testing and elimination of infected birds, vaccination in commercial flocks would help to prevent MG",
+        "__collections__": {}
+      },
+      "Newcastle disease": {
+        "Background Info": "Newcastle disease is a highly contagious viral infection affecting poultry, including chickens and ducks.",
+        "Diagnostic Method": "Clinical signs examination, virus isolation, serological tests (HI, ELISA), PCR.",
+        "Symptoms": "Respiratory signs (gasping, coughing), nervous signs (twisting of neck), diarrhea, decreased egg production.",
+        "Transmission": "Direct contact with infected birds, contaminated feed or equipment.",
+        "Treatment": "Supportive care, vaccination is crucial for prevention. Other prevention methods include biosecurity measures to limit spread.",
+        "__collections__": {}
+      },
+      "Peste des Petits Ruminants (PPR)": {
+        "Background Info": "Peste des petits ruminants (PPR) is a viral disease primarily affecting sheep and goats, caused by the Peste des petits ruminants virus (PPRV) of the Paramyxoviridae family.",
+        "Diagnostic Method": "Clinical signs examination, serological tests (ELISA), virus isolation, molecular methods (PCR).",
+        "Symptoms": "Fever, nasal and ocular discharge, pneumonia, diarrhea, ulcers in the mouth.",
+        "Transmission": "Contact with infected animals, respiratory secretions, and feces.",
+        "Treatment": "Supportive care with antibiotics for secondary bacterial infections. Vaccination is essential for prevention and control. Mass vaccination can be achieved through vaccination campaigns targeting small ruminants, quarantine of new animals, and strict hygiene practices.",
+        "__collections__": {}
+      },
+      "Rift Valley Fever (RVF)": {
+        "Background Info": "Rift Valley fever is a viral disease affecting ruminants and humans, transmitted by mosquitoes.",
+        "Diagnostic Method": "Serological tests (ELISA, virus neutralization), PCR, virus isolation, clinical signs examination.",
+        "Symptoms": "Abortion storms, fever, liver damage, hemorrhagic symptoms in severe cases.",
+        "Transmission": "Mosquito-borne, also through direct contact with infected tissues.",
+        "Treatment": "Supportive care is crucial, no specific antiviral treatment. Vaccination of livestock is also a necessity. Mosquito control measures, avoidance of contact with potentially infected animals are some prevention techniques",
+        "__collections__": {}
+      },
+      "Theileriosis (East Coast Fever)": {
+        "Background Info": "Theileriosis is a tick-borne disease caused by protozoa of the genus Theileria, affecting cattle and other ruminants.",
+        "Diagnostic Method": "Blood smear examination for piroplasms, serological tests (ELISA), PCR, clinical signs examination.",
+        "Symptoms": "High fever, anemia, jaundice, labored breathing.",
+        "Transmission": "Biting ticks (e.g., Rhipicephalus appendiculatus) carrying Theileria parasites.",
+        "Treatment": "Antiprotozoal drugs (e.g., buparvaquone, diminazene aceturate). To prevent, run tick control with acaricides, vaccination where available, and pasture management.",
+        "__collections__": {}
+      },
+      "Trypanosomiasis (Surra)": {
+        "Background Info": "Surra is caused by various species of Trypanosoma protozoa transmitted by tsetse flies.",
+        "Diagnostic Method": "Microscopic examination of blood smears, serological tests (CATT, ELISA), PCR, parasite isolation.",
+        "Symptoms": "Fever, anemia, weight loss, edema, neurological signs.",
+        "Transmission": "Biting of infected tsetse flies.",
+        "Treatment": "Vector control programs, screening of imported animals from endemic regions. Antiprotozoal drugs such as diminazene aceturate. Vector control to prevent transmission is essential",
+        "__collections__": {}
+      },
+      "Tuberculosis (TB)": {
+        "Background Info": "Tuberculosis in livestock is caused by Mycobacterium bovis, affecting cattle primarily but can also infect other animals and humans.",
+        "Diagnostic Method": "Tuberculin skin test, interferon-gamma assay (IGRA), bacterial culture, PCR, radiography.",
+        "Symptoms": "Chronic cough, weight loss, weakness, swollen lymph nodes.",
+        "Transmission": "Breathing in infectious aerosols, consumption of contaminated food or water.",
+        "Treatment": "Long-term antibiotic therapy (e.g., combination of rifampicin, isoniazid); test and slaughter programs. To prevent, strict biosecurity measures, and public health education would be beneficial",
+        "__collections__": {}
+      }
+    }
+  }
